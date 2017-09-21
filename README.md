@@ -1,6 +1,8 @@
 # Bitcoin-Cash-Green-Art
 Vector artwork files for Bitcoin Cash in Green.
 
+Feel free to use abuse, mutilate, print and sell T shirts, stickers. Whatever you want.
+
 
 Green Hex: #4cca47
 Green Pantone: 802C
