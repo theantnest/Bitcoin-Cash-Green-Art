@@ -15,7 +15,7 @@ Fonts: Ubuntu, Ubuntu Italic, Kerning -50
 
 For custom logo sizes:
 
-Use the Photoshop or Illustrator files to output any size as required.
+Use the Photoshop or Illustrator files to output any size as required. All files use paths and will scale infinitely.
 
 Alternatively, use the high res PNG files provided in this repo and resize them using a simple image editor, or an online image editor.
 
