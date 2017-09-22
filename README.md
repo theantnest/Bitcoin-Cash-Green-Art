@@ -9,15 +9,15 @@ Feel free to use abuse, mutilate, print and sell T shirts, stickers. Whatever yo
 
 
 Green Hex: #4cca47
-Green Pantone: 802C
+Pantone: 802C
 
 Grey Hex: #4d4d4d
-Grey Pantone: 11C
+Pantone: 11C
 
 Fonts: Ubuntu, Ubuntu Italic, Kerning -50
 
 Original Orange Hex: #f7941d
-Original Orange Pantone: 1375C
+Pantone: 1375C
 
 
 For custom logo sizes:
