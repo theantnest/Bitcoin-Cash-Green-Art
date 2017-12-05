@@ -35,3 +35,6 @@ http://resizeimage.net/
 http://www.picresize.com/
 
 http://www.simpleimageresizer.com/
+
+
+BCH Donations 1EQGBKv25C7dUARbjZd6adXXZWRbX7SvY4
